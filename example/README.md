@@ -233,19 +233,19 @@ TDLib can be used from the C programming language through the [JSON](https://git
 You can also try to use our [C](https://github.com/tdlib/td/blob/master/td/telegram/td_c_client.h) client, which was used by the private TDLib-based version of [telegram-cli](https://github.com/vysheng/tg).
 
 <a name="object-pascal"></a>
-# Using TDLib in delphi and lazarus projects
+## Using TDLib in delphi and lazarus projects
 
 This Example was developed for use and consumption of the Official [*Telegram TDLib API*](https://core.telegram.org/tdlib) for use in Delphi
 
-# For More Info and Source Files project, visit:
+### For More Info and Source Files project, visit:
  * **[*tdlib-delphi*](https://github.com/dieletro/tdlib-delphi)**
  * **[*tdlib-lazarus*](https://github.com/dieletro/tdlib-lazarus)**
 
-## Description
+### Description
 
 Client for TDLib (Telegram database library) with Delphi through the json interface.
 
-## Requirements Delphi
+### Requirements Delphi
 
 * Delphi 2010 or higher
 * [x-superobject](https://github.com/onryldz/x-superobject) Files 
