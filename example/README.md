@@ -233,7 +233,7 @@ TDLib can be used from the C programming language through the [JSON](https://git
 You can also try to use our [C](https://github.com/tdlib/td/blob/master/td/telegram/td_c_client.h) client, which was used by the private TDLib-based version of [telegram-cli](https://github.com/vysheng/tg).
 
 <a name="object-pascal"></a>
-## Using TDLib in delphi and lazarus projects
+## Using TDLib in Object Pascal projects with Delphi and Lazarus
 
 This Example was developed for use and consumption of the Official [*Telegram TDLib API*](https://core.telegram.org/tdlib) for use in Delphi
 
