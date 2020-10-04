@@ -235,25 +235,10 @@ You can also try to use our [C](https://github.com/tdlib/td/blob/master/td/teleg
 <a name="object-pascal"></a>
 ## Using TDLib in Object Pascal projects with Delphi and Lazarus
 
+TDLib can be used from the Object Pascal programming language.
+
+See [tdlib-delphi](https://github.com/dieletro/tdlib-delphi) or [tdlib-lazarus](https://github.com/dieletro/tdlib-lazarus) for examples of such use and a Delphi or Lazarus client for TDLib.
 This Example was developed for use and consumption of the Official [*Telegram TDLib API*](https://core.telegram.org/tdlib) for use in Delphi
-
-### For More Info and Source Files project, visit:
- * **[*tdlib-delphi*](https://github.com/dieletro/tdlib-delphi)**
- * **[*tdlib-lazarus*](https://github.com/dieletro/tdlib-lazarus)**
-
-### Description
-
-Client for TDLib (Telegram database library) with Delphi through the json interface.
-
-### Requirements Delphi
-
-* Delphi 2010 or higher
-* [x-superobject](https://github.com/onryldz/x-superobject) Files 
-
-### Requirements Lazarus
-
-* Lazarus 2.0.10 or higher
-* [superobject](https://github.com/hgourvest/superobject) Files 
 
 <a name="other"></a>
 ## Using TDLib from other programming languages
