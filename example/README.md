@@ -252,7 +252,7 @@ Client for TDLib (Telegram database library) with Delphi through the json interf
 
 ### Requirements Lazarus
 
-* Lazarus 2.0.10 or latter
+* Lazarus 2.0.10 or higher
 * [superobject](https://github.com/hgourvest/superobject) Files 
 
 <a name="other"></a>
